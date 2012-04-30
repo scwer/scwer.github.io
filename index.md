@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scwer
+title: 页面无法打开
 header: Writings and Change
 ---
 
