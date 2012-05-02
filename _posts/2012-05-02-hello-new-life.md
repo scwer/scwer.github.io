@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你好,未来"
+title: "你好，未来"
 description: ""
 category: 
 tags: []
