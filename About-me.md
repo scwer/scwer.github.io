@@ -53,6 +53,20 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 ----
 
+##设备
+
+- 2011 13’ late Macbook pro
+
+- iPhone 4
+
+- palm pre
+
+- acer A500
+
+- 1T 移动硬盘 
+
+-----
+
 ##技能
 
 - obj-c比熟悉稍微多一点，能倒腾些开源项目的扩展那种程度。
