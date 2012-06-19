@@ -67,13 +67,12 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 -----
 
+
 ##技能
 
 - obj-c比熟悉稍微多一点，能倒腾些开源项目的扩展那种程度。
 
 - 熟练使用*uix
-
-- iphone里面全部都是正版程序，买不起的就不用。
 
 - 大学的时候学的jsp还有点点的记得，搞得定普通的java服务端。
 
@@ -81,6 +80,15 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 ------
 
+##态度
+
+- 对于心中重视和喜爱的项目，会不惜一切去达成。 
+
+- iphone里面全部都是正版程序，买不起的就不用。
+
+- 在力所能及下追求完美。
+
+------
 ##改进中的
 
 - 大多人类身上具有的拖沓，我还是没能避免，努力鞭挞自己中。
