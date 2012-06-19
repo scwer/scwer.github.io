@@ -79,6 +79,8 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 - 身体强壮，能扛主机。
 
 - 热爱git
+
+
 ------
 
 ##态度
