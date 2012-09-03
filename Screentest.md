@@ -8,4 +8,4 @@ group: navigation
 
 好吧，就是一个简单的测试屏幕坏点的页面
 
-[猛击测试](http://dextly.tk/screentest/)
+[猛击测试](http://dextly.tk/sreentest/)
