@@ -72,7 +72,9 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 - obj-c比熟悉稍微多一点，能倒腾些开源项目的扩展那种程度。
 
-- 熟练使用*uix
+- 熟练使用*uix 。
+
+- 正在学习python。
 
 - 大学的时候学的jsp还有点点的记得，搞得定普通的java服务端。
 
