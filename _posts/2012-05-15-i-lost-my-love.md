@@ -2,7 +2,7 @@
 layout: post
 title: "失恋就这样"
 description: ""
-category: 
+category: love
 tags: []
 ---
 {% include JB/setup %}

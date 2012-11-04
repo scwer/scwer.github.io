@@ -2,7 +2,7 @@
 layout: post
 title: "噗，不相信爱情了"
 description: ""
-category: 
+category: love
 tags: []
 ---
 {% include JB/setup %}
