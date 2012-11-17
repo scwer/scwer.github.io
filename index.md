@@ -5,13 +5,18 @@ header: Writings and Change
 ---
 
 ### Writings and Change
+</br>
+
+</br>
+</br>
 
 
+##用文字记录自己的灵感和曾经的时光间隙.
 
-用文字记录自己的灵感和曾经的快乐时光.
+</br>
+</br>
 
-
-#### 最近发布的文章
+#### 最近写的文章
 
 <ul class="posts">
   {% for post in site.posts %}
