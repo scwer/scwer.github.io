@@ -61,7 +61,7 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 - palm pre
 
-- acer A500
+- iPad mini
 
 - 1T 移动硬盘 
 
@@ -89,7 +89,7 @@ Linux,iOS,Android, Webos, Google,BlackBerry, MacBook Pro, 野生程序员, 死�
 
 - 对于心中重视和喜爱的项目，会不惜一切去达成。 
 
-- iphone里面全部都是正版程序，买不起的就不用。
+- iPhone里面全部都是正版程序，买不起的就不用。
 
 - 在力所能及下追求完美。
 
